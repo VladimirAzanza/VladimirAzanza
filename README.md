@@ -22,7 +22,7 @@ I'm currently diving into:
 ---
 ## 🛠️ Projects
 ### 🚀 Featured Projects
-- **[Shifa Products](https://github.com/VladimirAzanza/foodgram)**: Pharmacy marketplace using Python-Django as backend with Bootstrap Frontend. Tech stack: Python, Django, Bootstrap
+- **[Shifa Products](https://github.com/VladimirAzanza/shifa_products)**: Pharmacy marketplace using Python-Django as backend with Bootstrap Frontend. Tech stack: Python, Django, Bootstrap
 - **[Foodgram](https://github.com/VladimirAzanza/foodgram)**: Social network for sharing recipes on an online platform. Tech stack: Python, Django, PostgreSQL.
 - **[Blogicum](https://github.com/VladimirAzanza/django_sprint4)**: Blogicum is a social network for publishing personal diaries. Tech stack: Python, Django, Bootstrap.
 - **[Homework Bot](https://github.com/VladimirAzanza/homework_bot)**: Telegram bot constantly sends requests to Yandex Practicum API in search of the status update of the last homework sent. Tech stack: Python, pyTelegramBotAPI
@@ -30,7 +30,7 @@ I'm currently diving into:
 
 ---
 ## 🤝 Looking for Collaboration!
-I’m actively seeking collaborators for my **[Shifa Products](https://github.com/VladimirAzanza/foodgram)** project—a pharmacy marketplace built using **Python-Django** as the backend and **Bootstrap** for the frontend. This is an exciting opportunity to:
+I’m actively seeking collaborators for my **[Shifa Products](https://github.com/VladimirAzanza/shifa_products)** project—a pharmacy marketplace built using **Python-Django** as the backend and **Bootstrap** for the frontend. This is an exciting opportunity to:
 
 - Expand functionality for users and vendors.
 - Enhance performance and scalability.
