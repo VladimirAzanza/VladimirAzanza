@@ -22,8 +22,8 @@ I'm currently diving into:
 ---
 ## 🛠️ Projects
 ### 🚀 Featured Projects
-- **[Shifa Products](https://github.com/VladimirAzanza/shifa_products)**: Pharmacy marketplace using Python-Django as backend with Bootstrap Frontend. Tech stack: Python, Django, Bootstrap
-- **[Foodgram](https://github.com/VladimirAzanza/foodgram)**: Social network for sharing recipes on an online platform. Tech stack: Python, Django, PostgreSQL.
+- **[Shifa Products](https://github.com/VladimirAzanza/shifa_products)**: Pharmacy marketplace using Python-Django as backend with Bootstrap Frontend. Tech stack: Python, Django, Bootstrap, pyTelegramBotAPI, WebHook
+- **[Foodgram](https://github.com/VladimirAzanza/foodgram)**: Social network for sharing recipes on an online platform. Tech stack: Python, Django, DRF PostgreSQL.
 - **[Blogicum](https://github.com/VladimirAzanza/django_sprint4)**: Blogicum is a social network for publishing personal diaries. Tech stack: Python, Django, Bootstrap.
 - **[Homework Bot](https://github.com/VladimirAzanza/homework_bot)**: Telegram bot constantly sends requests to Yandex Practicum API in search of the status update of the last homework sent. Tech stack: Python, pyTelegramBotAPI
 - **[BEV-PHEV-Historical-Sales-Datat](https://github.com/VladimirAzanza/BEV-PHEV-Historical-Sales-Data)**: Visualize global electric vehicle (BEV/PHEV) sales data and compare it by countries. Tech stack: Python, Matplotlib
