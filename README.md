@@ -3,7 +3,7 @@
 Here are some of the tools and technologies I work with:
 
 - **Programming Languages:** Python
-- **Web Development:** Django, DRF, HTML, CSS, Bootstrap
+- **Web Development:** Django, DRF, HTML, CSS, Bootstrap, Pytest
 - **Databases:** PostgreSQL, MySQL
 - **Other Tools:** Git, Docker, Linux, VS Code, Gunicorn, Github Actions, AWS
 
