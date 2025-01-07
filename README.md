@@ -26,7 +26,7 @@ Here are some of the tools and technologies I work with:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirAzanza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
