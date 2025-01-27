@@ -35,8 +35,9 @@ Here are some of the tools and technologies I work with:
 ## 🌱 Currently Learning
 I'm currently diving into:
 
-- 🛠️ DevOps (Docker, CI/CD)
-- 🌐 Front-End
+🌐 Front-End
+⚡ Asyncio + FastAPI
+🤖 Telegram Bots (Aiogram)
 
 ---
 ## 🛠️ Projects
