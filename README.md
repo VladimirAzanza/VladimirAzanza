@@ -35,9 +35,7 @@ Here are some of the tools and technologies I work with:
 ## 🌱 Currently Learning
 I'm currently diving into:
 
-- 🌐 Front-End
-- ⚡ Asyncio + FastAPI
-- 🤖 Telegram Bots (Aiogram)
+- Go
 
 ---
 ## 🛠️ Projects
