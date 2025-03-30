@@ -24,6 +24,7 @@ Here are some of the tools and technologies I work with:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 ## 📊 GitHub Stats:
@@ -40,22 +41,12 @@ I'm currently diving into:
 ---
 ## 🛠️ Projects
 ### 🚀 Featured Projects
+- **[URL Shortener](https://github.com/VladimirAzanza/url-shortener)**: High-performance URL shortening service built with Go and Fiber. Tech stack: Go, Fiber, Uber FX, SHA256 hashing.
 - **[Shifa Products](https://github.com/VladimirAzanza/shifa_products)**: Pharmacy marketplace using Python-Django as backend with Bootstrap Frontend. Tech stack: Python, Django, Bootstrap, pyTelegramBotAPI, WebHook
 - **[Foodgram](https://github.com/VladimirAzanza/foodgram)**: Social network for sharing recipes on an online platform. Tech stack: Python, Django, DRF PostgreSQL.
 - **[Blogicum](https://github.com/VladimirAzanza/django_sprint4)**: Blogicum is a social network for publishing personal diaries. Tech stack: Python, Django, Bootstrap.
 - **[Homework Bot](https://github.com/VladimirAzanza/homework_bot)**: Telegram bot constantly sends requests to Yandex Practicum API in search of the status update of the last homework sent. Tech stack: Python, pyTelegramBotAPI
 - **[BEV-PHEV-Historical-Sales-Datat](https://github.com/VladimirAzanza/BEV-PHEV-Historical-Sales-Data)**: Visualize global electric vehicle (BEV/PHEV) sales data and compare it by countries. Tech stack: Python, Matplotlib
-
----
-## 🤝 Looking for Collaboration!
-I’m actively seeking collaborators for my **[Shifa Products](https://github.com/VladimirAzanza/shifa_products)** project—a pharmacy marketplace built using **Python-Django** as the backend and **Bootstrap** for the frontend. This is an exciting opportunity to:
-
-- Expand functionality for users and vendors.
-- Enhance performance and scalability.
-- Add innovative features like real-time notifications, payment integration, and analytics.
-
-
-If you’re a developer, designer, or someone interested in contributing, feel free to reach out. Let’s build something impactful together! 🚀
 
 ---
 ## 🌐 Socials:
